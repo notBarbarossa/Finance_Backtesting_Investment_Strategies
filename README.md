@@ -9,4 +9,4 @@ You will see how different investment strategies work in the long run and the sh
 
 Many financiers are interested, which strategies are better: passive or active?
 
-I will answer these questions, Backtesting  Momentum Strategy, Basic strategy (Passive) and Contrarian Strategy.
+I will answer these questions by Backtesting  Momentum Strategy, Basic strategy (Passive) and Contrarian Strategy.
