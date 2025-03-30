@@ -1,6 +1,6 @@
 # Finance Stack Backtesting Investment Strategies US Stocks
 
-** In this Project you will see how effective are investment strategies **
+__In this Project you will see how effective are investment strategies__
 
 I will analyze real US stock data containing 30 large US stocks, such as Apple, Disney and more.
 ![image alt](https://github.com/notBarbarossa/Finance_Backtesting_Investment_Strategies/blob/main/output.png?raw=true)
