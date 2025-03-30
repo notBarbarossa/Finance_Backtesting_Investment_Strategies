@@ -1,4 +1,4 @@
-# Finance_Backtesting_Investment_Strategies
+# Finance Stack Backtesting Investment Strategies US Stocks
 
 ** In this Project you will see how effective are investment strategies **
 
